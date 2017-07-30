@@ -3,6 +3,9 @@ layout: post
 title: 练习：学生成绩单（Web版）
 categories: training
 ---
+
+【欲知如何运行本系统请移步本文档底端～】
+
 ## 练习目标
 
 - 基于新需求，重构既有代码
@@ -85,3 +88,10 @@ HTML W3school教程：[http://www.w3school.com.cn/html/index.asp](http://www.w3s
 CSS W3school教程：[http://www.w3school.com.cn/css/index.asp](http://www.w3school.com.cn/css/index.asp)
 
 Bootstrap中文文档：[http://www.bootcss.com/](http://www.bootcss.com/)
+
+## 系统使用方式
+
+[戳我去预览](https://rawgit.com/Christine233/stu-mgmt-sys-for-web/master/index.html) 
+
+1. 添加一名同学可以实时在上方表格中看到该同学的信息
+2. 完成查询之后紧接着进行修改或删除查询到的同学，在最上方表单里看不到实时的变化，此时再重新查询一下就可以看到改变啦～
